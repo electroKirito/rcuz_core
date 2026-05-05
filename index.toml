@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitattributes"
+hash = "2b4a36b3152af89c2af116c71c13e3d20ee2acb0c8cbc4b468d8e2d388727ae0"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "9d13a28605e1942964ef7e88873d79bb6eed271c3dbd9e01c79443308beeb177"
 

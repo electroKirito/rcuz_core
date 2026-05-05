@@ -19,3 +19,5 @@
 !index.toml
 !*.pw.toml
 !.packwizignore
+
+!.gitattributes
