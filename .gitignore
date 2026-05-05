@@ -20,3 +20,5 @@
 
 !resourcepacks/
 !resourcepacks/**
+
+!.gitattributes
