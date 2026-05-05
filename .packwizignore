@@ -21,3 +21,6 @@
 !.packwizignore
 
 !.gitattributes
+
+kubejs/probe/
+kubejs/probe/**
