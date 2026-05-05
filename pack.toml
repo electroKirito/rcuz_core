@@ -1,0 +1,13 @@
+name = "rcuz"
+author = "ElectroBear"
+version = "2.1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ec585ff3df2c980319812246f07d545fbe17b5afe05fec30d9d87c1bc552abcd"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.20.1"

@@ -1,0 +1,21 @@
+# Игнорировать всё
+*
+
+# Но оставить нужные папки
+!mods/
+!mods/**
+
+!kubejs/
+!kubejs/**
+
+!config/
+!config/**
+
+!resourcepacks/
+!resourcepacks/**
+
+# Оставить файлы самого packwiz
+!pack.toml
+!index.toml
+!*.pw.toml
+!.packwizignore
