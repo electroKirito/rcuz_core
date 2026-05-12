@@ -316,6 +316,14 @@ mode = "fancy"
 			[light_sources.settings.entities.adorn]
 				seat = true
 
+			[light_sources.settings.entities.biomeswevegone]
+				pumpkin_warden = true
+				oddion = true
+				man_o_war = true
+				chest_boat = true
+				wreath = true
+				boat = true
+
 [debug]
 	active_dynamic_lighting_cells = false
 	display_dynamic_lighting_chunk_rebuild = false

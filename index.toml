@@ -46,11 +46,11 @@ hash = "cb11df3cb80de92d65c47d55468c635eba436556f2990df60c6c0dbab6e6de3b"
 
 [[files]]
 file = "config/axiom/.axiom.json.backup"
-hash = "2a371a96c230a403181132477987d61af26f37c4bf99b6b8b6b597fec112dd0f"
+hash = "234a42333d943d66d640b574bb092610ae40965119c57743d3e55d038e33ef99"
 
 [[files]]
 file = "config/axiom/axiom.json"
-hash = "2a371a96c230a403181132477987d61af26f37c4bf99b6b8b6b597fec112dd0f"
+hash = "234a42333d943d66d640b574bb092610ae40965119c57743d3e55d038e33ef99"
 
 [[files]]
 file = "config/axiom/blueprints.rar"
@@ -2354,7 +2354,7 @@ hash = "24187ea2162f13f577c1a496836a3a03697599081043b4db5421fcbabdcf963c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3958e5596d4e30ad09db6ae428930edb0b96836dd37faadd4d956d19de272ee8"
+hash = "ca6ca1d476f47f98af0acf6d40ac3f7661963b42491bcadaea59d8b8edac12fd"
 
 [[files]]
 file = "config/fabrictailor.json"
@@ -2406,11 +2406,11 @@ hash = "15ec7bf0b50732b49f8228e07d24365338f9e3ab994b00af08e5a3bffe55fd8b"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "f12fb44b1fc86c0948b22cffbc1f9b1d60462eb75a7b5f95a82b96ca3f375260"
+hash = "7823875976eab932451dc9c04a546fb66558da9a77b8d58261297c08a9e060ce"
 
 [[files]]
 file = "config/iris.properties"
-hash = "63cf1fee099dce35eac23a64abf622450964a3de3d6c33ed34356e626c0a3cf5"
+hash = "fffdc2fba99099363f8040b3201238378e71f2821581c9fd42d6fd5014994316"
 
 [[files]]
 file = "config/itemzoomer.json"
@@ -2418,7 +2418,7 @@ hash = "de1f436b6bc07f1f182a9f5b048c67a7587f817fa007779634033dcae4236625"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "1c5dd7af285edc23a49b9ee82583af36169b42b8a3f7e8ccedc0e09b2baa2384"
+hash = "80df397765d76458e914c4ab28a90f6beb8260945a686e5da640d0dbaee36660"
 
 [[files]]
 file = "config/libgui.json5"
@@ -2845,8 +2845,8 @@ file = "mods/rcuz_core_moj-2.9.0.jar.disabled"
 hash = "ad309abca5df062b4d602b781e606bc851d99abfd2a4fa2537698945e4ecd53c"
 
 [[files]]
-file = "mods/rcuz_core_moj-2.9.5.jar"
-hash = "f3c01595bea1b5ad0eeb2fc7f7665741aa5af69cfee305a90224c96a5529b93e"
+file = "mods/rcuz_core_moj-2.9.6.jar"
+hash = "0c3f380efd95f42c02cf80ce8cd264851a7c4e7f1b915fd13abce5b933e55b02"
 
 [[files]]
 file = "mods/rcuz_items-1.0.1.jar"
