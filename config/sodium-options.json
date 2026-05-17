@@ -7,10 +7,10 @@
   "advanced": {
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": false,
-    "cpu_render_ahead_limit": 9
+    "cpu_render_ahead_limit": 6
   },
   "performance": {
-    "chunk_builder_threads": 24,
+    "chunk_builder_threads": 15,
     "always_defer_chunk_updates_v2": true,
     "animate_only_visible_textures": true,
     "use_entity_culling": true,

@@ -117,11 +117,11 @@
     "forcePlace": false,
     "noUpdates": false,
     "tinker": false,
-    "infiniteReach": false,
+    "infiniteReach": true,
     "infiniteReachLimit": 54,
-    "fastPlace": false,
+    "fastPlace": true,
     "angelPlacement": false,
-    "noClip": false,
+    "noClip": true,
     "phantom": false
   },
   "blockAttributes": {
@@ -207,6 +207,6 @@
     "useVanillaMovementForEditor": true,
     "tallGrassIsActuallyNotTall": false,
     "disableChunkRenderOverrider": false,
-    "hadEditorUIOpen": true
+    "hadEditorUIOpen": false
   }
 }

@@ -285,8 +285,8 @@ file = "mods/probejs-6.0.0-fabric.jar"
 hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
 
 [[files]]
-file = "mods/rcuz-3.4.2.jar"
-hash = "d7c7e852eff75fe64f0ee02a2471ff30f261742cb1b3fe5259d580672861067d"
+file = "mods/rcuz-3.4.6.jar"
+hash = "1f0932a81a9a638754704bcd422b05b9b3a0810a444ff2ed05dad4085986c752"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"

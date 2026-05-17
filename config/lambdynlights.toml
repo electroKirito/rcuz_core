@@ -177,6 +177,42 @@ mode = "fancy"
 				medium_fireball = true
 				ring_effect_cloud = true
 
+			[light_sources.settings.entities.adorn]
+				seat = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				pumpkin_warden = true
+				oddion = true
+				man_o_war = true
+				chest_boat = true
+				wreath = true
+				boat = true
+
+			[light_sources.settings.entities.domixs-creatures]
+				fire_salamander = true
+				deer = true
+				shark = true
+				crocodile = true
+				hippo = true
+				worm = true
+				spectral_bat = true
+				mole = true
+				shaman = true
+				moose = true
+				tiger = true
+				eel = true
+				goldfish = true
+				iguana = true
+				whale = true
+				magma_ball = true
+				wisp = true
+				beaver = true
+				vine = true
+				mud_golem = true
+
+			[light_sources.settings.entities.bountifulfares]
+				flour = true
+
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true
 				slingshot_projectile = true
@@ -201,6 +237,10 @@ mode = "fancy"
 				super_glue = true
 				crafting_blueprint = true
 				potato_projectile = true
+
+			[light_sources.settings.entities.terraform]
+				chest_boat = true
+				boat = true
 
 			[light_sources.settings.entities.hybrid-aquatic]
 				tetra = true
@@ -312,17 +352,6 @@ mode = "fancy"
 				opah = true
 				moray_eel = true
 				frilled_shark = true
-
-			[light_sources.settings.entities.adorn]
-				seat = true
-
-			[light_sources.settings.entities.biomeswevegone]
-				pumpkin_warden = true
-				oddion = true
-				man_o_war = true
-				chest_boat = true
-				wreath = true
-				boat = true
 
 [debug]
 	active_dynamic_lighting_cells = false
