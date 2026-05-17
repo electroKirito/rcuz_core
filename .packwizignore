@@ -8,8 +8,8 @@
 !kubejs/
 !kubejs/**
 
-!config/
-!config/**
+# !config/
+# !config/**
 
 !resourcepacks/
 !resourcepacks/**
