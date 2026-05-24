@@ -69,6 +69,10 @@ file = "mods/CustomSkinLoader_Fabric-14.28.jar"
 hash = "e5973b2c680b46dd64e2cd1b4c6137188b71eb3aec7e06060fdb028dc3c9a05e"
 
 [[files]]
+file = "mods/EuphoriaPatcher-1.9.0-r5.8-fabric.jar"
+hash = "3a5178adb166301c1c597ac5ae9f7a340d2eceaee4ed8bdf059e628bbc169324"
+
+[[files]]
 file = "mods/FarmersDelight-1.20.1-2.4.1+refabricated.jar"
 hash = "81d78e10b58e220bffbe4932de5486ac2127efc37908e89161237a34f0828fac"
 
@@ -197,6 +201,10 @@ file = "mods/fabrictailor-2.1.2.jar.disabled"
 hash = "a18336f4c7289fd1934f22dc8a6f3908f89609dc81e3c9f079503ed17ab73c86"
 
 [[files]]
+file = "mods/fantasy-0.4.11+1.20-rc1.jar"
+hash = "90b5cf9cf480ba4df3318240c21cb6f291c5c8faff740ad51773da281c7430ad"
+
+[[files]]
 file = "mods/fantasy_armor-fabric-1.0-1.20.1.jar"
 hash = "cbdea1810c16a522a04df99139cb990f3fd48aa31637d1dcf41ccc5d8f3e5e76"
 
@@ -285,8 +293,8 @@ file = "mods/probejs-6.0.0-fabric.jar"
 hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
 
 [[files]]
-file = "mods/rcuz-3.4.6.jar"
-hash = "1f0932a81a9a638754704bcd422b05b9b3a0810a444ff2ed05dad4085986c752"
+file = "mods/rcuz-3.5.2.jar"
+hash = "3e8e0db3596a5a02645cf28a8cb5e2bcc6d4542b5ce4ec6a7c4d9e86b3e59b7d"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
@@ -297,8 +305,8 @@ file = "mods/rcuz_core_moj-2.9.0.jar.disabled"
 hash = "ad309abca5df062b4d602b781e606bc851d99abfd2a4fa2537698945e4ecd53c"
 
 [[files]]
-file = "mods/rcuz_core_moj-2.9.6.jar"
-hash = "0c3f380efd95f42c02cf80ce8cd264851a7c4e7f1b915fd13abce5b933e55b02"
+file = "mods/rcuz_core_moj-3.0.3.jar"
+hash = "9c337149501870c774681b49191c8ce3e3fea042039ea007f3f7efb5808e0a80"
 
 [[files]]
 file = "mods/rcuz_items-1.0.1.jar"
