@@ -309,8 +309,8 @@ file = "mods/rcuz_core_moj-3.0.3.jar"
 hash = "9c337149501870c774681b49191c8ce3e3fea042039ea007f3f7efb5808e0a80"
 
 [[files]]
-file = "mods/rcuz_items-1.0.1.jar"
-hash = "a1112cc057a605b130454383f5a51a5aca533ad491223cec473998e6a53ee305"
+file = "mods/rcuz_items-1.0.2.jar"
+hash = "d22e5cee53a679076ee1d5db7fe7a2b0877aa03075aefef93cc605a6c827751f"
 
 [[files]]
 file = "mods/resource-bar-api-1.6.2.jar"
