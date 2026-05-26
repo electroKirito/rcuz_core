@@ -293,8 +293,8 @@ file = "mods/probejs-6.0.0-fabric.jar"
 hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
 
 [[files]]
-file = "mods/rcuz-3.5.2.jar"
-hash = "3e8e0db3596a5a02645cf28a8cb5e2bcc6d4542b5ce4ec6a7c4d9e86b3e59b7d"
+file = "mods/rcuz-3.5.4.jar"
+hash = "033e99e654f36da31072f922d7eb48016658b15b2261b1680d01879466cf845f"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
@@ -309,8 +309,8 @@ file = "mods/rcuz_core_moj-3.0.3.jar"
 hash = "9c337149501870c774681b49191c8ce3e3fea042039ea007f3f7efb5808e0a80"
 
 [[files]]
-file = "mods/rcuz_items-1.0.2.jar"
-hash = "d22e5cee53a679076ee1d5db7fe7a2b0877aa03075aefef93cc605a6c827751f"
+file = "mods/rcuz_items-1.0.4.jar"
+hash = "9258a3c2e49ed1c4b38e44e776aaaf7cb52b859b9bcb80f2cfb4a131a038e00c"
 
 [[files]]
 file = "mods/resource-bar-api-1.6.2.jar"
