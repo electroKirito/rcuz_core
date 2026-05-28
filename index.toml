@@ -309,8 +309,8 @@ file = "mods/rcuz_core_moj-3.0.3.jar"
 hash = "9c337149501870c774681b49191c8ce3e3fea042039ea007f3f7efb5808e0a80"
 
 [[files]]
-file = "mods/rcuz_items-1.0.45.jar"
-hash = "f2b190c6d2944afb7a8f8ef192a673f91619ab84e8b9d5701f44cd1fee519c06"
+file = "mods/rcuz_items-1.0.46.jar"
+hash = "c2a4625835fba8ed228e61f287039810ada9ac356a1033c2ba99e67f9d6fd4be"
 
 [[files]]
 file = "mods/resource-bar-api-1.6.2.jar"
@@ -323,10 +323,6 @@ hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
 [[files]]
 file = "mods/rhino-fabric-2001.2.3-build.10.jar"
 hash = "e205fac40f7f27abfa284b00f62d9c1cbd6da494a64cb984ebadd9d76ff5f3ee"
-
-[[files]]
-file = "mods/robinsunlimitedpackets-1.0.0-1.20.x.jar"
-hash = "2270c3cb39641f7e0bf824070f68990ae4d9479611fbadf81a34431f72a7f4bf"
 
 [[files]]
 file = "mods/sdm_economy-fabric-1.20.1-1.7.2.jar"
@@ -383,7 +379,3 @@ hash = "d94ca14a4ece53c91313542e0c57500d3a9a8b2635d8006dc43487c8aab4f92e"
 [[files]]
 file = "mods/worldedit-mod-7.2.15-1.20.1-fabric-forge.jar"
 hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
-
-[[files]]
-file = "mods/xlpackets-fabric-1.20.1-1.0.5.jar"
-hash = "0e7a6f074eff63133f1edeffdb13a0119822a9665a4db6fb1a75d2741e7fe3f5"
