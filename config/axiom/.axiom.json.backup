@@ -119,7 +119,7 @@
     "tinker": false,
     "infiniteReach": true,
     "infiniteReachLimit": 16,
-    "fastPlace": false,
+    "fastPlace": true,
     "angelPlacement": false,
     "noClip": true,
     "phantom": false

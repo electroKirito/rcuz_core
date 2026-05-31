@@ -313,8 +313,8 @@ file = "mods/rcuz_core_moj-3.0.3.jar"
 hash = "9c337149501870c774681b49191c8ce3e3fea042039ea007f3f7efb5808e0a80"
 
 [[files]]
-file = "mods/rcuz_items-1.0.46.jar"
-hash = "c2a4625835fba8ed228e61f287039810ada9ac356a1033c2ba99e67f9d6fd4be"
+file = "mods/rcuz_items-1.0.47.jar"
+hash = "6d08b0cf9478b39f5b809a25040454ab4d5d83feee40e3e5a03a3247c2be52c5"
 
 [[files]]
 file = "mods/resource-bar-api-1.6.2.jar"
@@ -359,6 +359,10 @@ hash = "e3a8a509a53202e487be3d42faa32bd52c7e8c7a9cc4097abb8a3d26d85ef24b"
 [[files]]
 file = "mods/spuds-shops-1.20.1-1.8.1.jar"
 hash = "d3435c1f77b7e29dfc94443fc2b23420422623bd3fc3b7a53c69a3b2019ed657"
+
+[[files]]
+file = "mods/stacc-1.7.0.jar"
+hash = "27094c55f412b05377f8e060e39754d8821e382da6b45f9d0005dbb09b7894a9"
 
 [[files]]
 file = "mods/starlight-1.1.2+fabric.dbc156f.jar"
