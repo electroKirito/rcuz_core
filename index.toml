@@ -109,6 +109,10 @@ file = "mods/PresenceFootsteps-1.10.1+1.20.1.jar"
 hash = "70f354e5ecd8993908601fcdfcb4e98f7b81f42192287282a5b86712e9a6be95"
 
 [[files]]
+file = "mods/TACZ-Refabricated-1.20.1-0.7.0-forge1.1.8-hotfix.jar"
+hash = "3c03f60dcc54e650ced399cb8b860cb6c0574298f7553edcd61633de0b892b05"
+
+[[files]]
 file = "mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
 hash = "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24"
 
