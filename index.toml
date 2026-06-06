@@ -297,8 +297,8 @@ file = "mods/probejs-6.0.0-fabric.jar"
 hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
 
 [[files]]
-file = "mods/rcuz-3.5.4.jar"
-hash = "033e99e654f36da31072f922d7eb48016658b15b2261b1680d01879466cf845f"
+file = "mods/rcuz-3.5.92.jar"
+hash = "3b4be454d9a79b4be1c99b4c8941a4888d6269e65898b2a74bc7858e7245ff63"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
@@ -311,10 +311,6 @@ hash = "ad309abca5df062b4d602b781e606bc851d99abfd2a4fa2537698945e4ecd53c"
 [[files]]
 file = "mods/rcuz_core_moj-3.0.3.jar"
 hash = "9c337149501870c774681b49191c8ce3e3fea042039ea007f3f7efb5808e0a80"
-
-[[files]]
-file = "mods/rcuz_items-1.0.47.jar"
-hash = "6d08b0cf9478b39f5b809a25040454ab4d5d83feee40e3e5a03a3247c2be52c5"
 
 [[files]]
 file = "mods/resource-bar-api-1.6.2.jar"
@@ -387,3 +383,7 @@ hash = "d94ca14a4ece53c91313542e0c57500d3a9a8b2635d8006dc43487c8aab4f92e"
 [[files]]
 file = "mods/worldedit-mod-7.2.15-1.20.1-fabric-forge.jar"
 hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
+file = "resourcepacks/PixelTwemojiMC-18.zip"
+hash = "431cd1e1137989e15690ca84a9bf9255102bf9d8c9cc5297fdf120937e888e20"
