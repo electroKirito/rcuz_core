@@ -118,8 +118,8 @@
     "noUpdates": false,
     "tinker": false,
     "infiniteReach": true,
-    "infiniteReachLimit": 16,
-    "fastPlace": true,
+    "infiniteReachLimit": 21,
+    "fastPlace": false,
     "angelPlacement": false,
     "noClip": true,
     "phantom": false

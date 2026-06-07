@@ -20,7 +20,7 @@ key_key.smoothCamera:key.keyboard.f8:NONE
 key_key.fullscreen:key.keyboard.f11:NONE
 key_key.spectatorOutlines:key.keyboard.unknown:NONE
 key_key.swapOffhand:key.keyboard.f:NONE
-key_key.saveToolbarActivator:key.keyboard.unknown:NONE
+key_key.saveToolbarActivator:key.keyboard.b:NONE
 key_key.loadToolbarActivator:key.keyboard.unknown:NONE
 key_key.advancements:key.keyboard.l:NONE
 key_key.hotbar.1:key.keyboard.1:NONE
@@ -75,6 +75,16 @@ key_key.observable.profile:key.keyboard.left.bracket:NONE
 key_key.paraglider.paragliderSettings:key.keyboard.p:NONE
 key_key.presencefootsteps.settings:key.keyboard.f10:NONE
 key_key.presencefootsteps.toggle:key.keyboard.unknown:NONE
+key_key.xtracr_realcamera.adjustUP:key.keyboard.unknown:NONE
+key_key.xtracr_realcamera.togglePerspective:key.keyboard.f9:NONE
+key_key.xtracr_realcamera.toggleCameraMode:key.keyboard.minus:NONE
+key_key.xtracr_realcamera.adjustFRONT:key.keyboard.unknown:NONE
+key_key.xtracr_realcamera.adjustBACK:key.keyboard.unknown:NONE
+key_key.xtracr_realcamera.adjustDOWN:key.keyboard.unknown:NONE
+key_key.xtracr_realcamera.adjustLEFT:key.keyboard.unknown:NONE
+key_key.xtracr_realcamera.toggleAdjustMode:key.keyboard.backslash:NONE
+key_key.xtracr_realcamera.modelViewScreen:key.keyboard.equal:NONE
+key_key.xtracr_realcamera.adjustRIGHT:key.keyboard.unknown:NONE
 key_key.tacz.inspect.desc:key.keyboard.h:NONE
 key_key.tacz.reload.desc:key.keyboard.r:NONE
 key_key.tacz.shoot.desc:key.mouse.left:NONE

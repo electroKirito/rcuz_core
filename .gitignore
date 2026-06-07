@@ -13,7 +13,7 @@
 !mods/**
 
 !config/
-!config/**
+!config/realcamera.json
 
 !kubejs/
 !kubejs/**

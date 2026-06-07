@@ -217,6 +217,10 @@ file = "mods/fantasy_weapons-fabric-0.3.1-1.20.1.jar"
 hash = "9bcf5ef325a54d76a189c6a3ccc1b75c53e362d2ba67a1000313c9b8c13764a8"
 
 [[files]]
+file = "mods/firstperson-fabric-2.7.1-mc1.20.1.jar.disabled"
+hash = "f53519d2afa660b8badc5e6f126ffcfc6858df5096d00e3e61d276ea915bf6ff"
+
+[[files]]
 file = "mods/ftb-library-fabric-2001.2.10-1.20.1.jar"
 hash = "40de6325faf3eb5f63e1d2652bf9d7fd7970402d40fbc32a3a94708fb0687946"
 
@@ -277,6 +281,10 @@ file = "mods/moonlight-1.20-2.16.8-fabric.jar"
 hash = "aef9f7a9c7aa10cde0a8624af47776c045035736d0e65dfd9f3eac8b634912c4"
 
 [[files]]
+file = "mods/notenoughanimations-fabric-1.12.3-mc1.20.1.jar"
+hash = "259185b7f50f74d71783fc79413140fce37e31f3469ea76d4f0a6a798be47ece"
+
+[[files]]
 file = "mods/numismatic-overhaul-0.2.17+1.20.jar"
 hash = "8404ed4d99b3c94829324b38fb5a171b58b78368bd4e3cf64dfd963fca4458ff"
 
@@ -289,6 +297,10 @@ file = "mods/owo-lib-0.11.2+1.20.jar"
 hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
 
 [[files]]
+file = "mods/pathfinder_navigation-1.0.0-forge-1.20.1.jar"
+hash = "89856a5e13244dddcafd85aa3896f11254685ce7ade213f24ca62438231b2de1"
+
+[[files]]
 file = "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
 hash = "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018"
 
@@ -297,8 +309,8 @@ file = "mods/probejs-6.0.0-fabric.jar"
 hash = "b8c4778e410257916d0c93898480a869e88cef04776198df1f60d3e886a7ae48"
 
 [[files]]
-file = "mods/rcuz-3.5.92.jar"
-hash = "3b4be454d9a79b4be1c99b4c8941a4888d6269e65898b2a74bc7858e7245ff63"
+file = "mods/rcuz-3.5.93.jar"
+hash = "af659c6d1febd98262e7bca5b4527a8b9cf1a3c211dd1b1c312571819273f949"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
@@ -309,8 +321,12 @@ file = "mods/rcuz_core_moj-2.9.0.jar.disabled"
 hash = "ad309abca5df062b4d602b781e606bc851d99abfd2a4fa2537698945e4ecd53c"
 
 [[files]]
-file = "mods/rcuz_core_moj-3.0.3.jar"
-hash = "9c337149501870c774681b49191c8ce3e3fea042039ea007f3f7efb5808e0a80"
+file = "mods/rcuz_core_moj-3.0.31.jar"
+hash = "49b068e40c2d10e72d13523c1ad98a2fd20919cf963c5158ace5aeaacbe790be"
+
+[[files]]
+file = "mods/realcamera-1.20.1-fabric-0.7.4-beta.jar"
+hash = "e957345cec770065ed082641ffb17159268fba0387d2e2fd69d271810573becb"
 
 [[files]]
 file = "mods/resource-bar-api-1.6.2.jar"

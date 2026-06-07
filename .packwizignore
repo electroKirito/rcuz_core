@@ -8,8 +8,8 @@
 !kubejs/
 !kubejs/**
 
-# !config/
-# !config/**
+!config/
+!config/realcamera.json
 
 !resourcepacks/
 !resourcepacks/**
