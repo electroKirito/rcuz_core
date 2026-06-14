@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rcuz:item/light_piece_of_metal"
+  }
+}

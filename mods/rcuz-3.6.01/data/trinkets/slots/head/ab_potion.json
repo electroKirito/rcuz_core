@@ -1,0 +1,6 @@
+{
+  "amount": 1,
+  "icon": "rcuz:gui/potion_cell",
+  "name": { "text": "AB potion slot" },
+  "items": "rcuz:head/ab_potion"
+}

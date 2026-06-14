@@ -1,0 +1,101 @@
+ Том в устройстве C имеет метку Windows 10
+ Серийный номер тома: 5287-FE05
+
+ Содержимое папки C:\Users\ElectroBear\AppData\Roaming\FreesmLauncher\instances\RCUZ\minecraft\mods
+
+12.06.2026  14:58    <DIR>          .
+12.06.2026  14:58    <DIR>          ..
+14.04.2026  00:20           191 868 additionalentityattributes-1.7.6+1.20.1.jar
+14.04.2026  00:20         4 128 916 Adorn-5.0.1+1.20.1-fabric.jar
+25.03.2026  15:09        53 432 098 AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar
+14.04.2026  01:33         1 266 546 amendments-1.20-2.2.5-fabric (1).jar
+14.04.2026  00:20           585 207 architectury-9.2.14-fabric.jar
+14.04.2026  01:10           104 794 attachmentsapi-1.1.4.8.jar
+14.04.2026  00:20        42 619 186 Axiom-5.0.1-for-MC1.20.1.jar
+22.04.2026  19:21           907 055 bettercombat-fabric-1.9.0+1.20.1.jar
+14.04.2026  01:26        22 317 968 BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar
+28.04.2026  21:42           135 561 blockofsky-fabric-1.20.1-0.3.0.jar.disabled
+17.05.2026  14:24         4 829 027 bountifulfares-1.2.0-1.20.1.jar
+14.04.2026  00:20         1 172 214 cloth-config-11.1.136-fabric.jar
+14.04.2026  00:21           325 772 colorfulhearts-fabric-1.20.1-4.3.16.jar
+14.04.2026  00:21         1 933 455 copycats-2.2.2+mc.1.20.1-fabric.jar
+06.05.2026  18:49           741 175 Corgilib-Fabric-1.20.1-4.0.3.4.jar
+14.04.2026  00:21         2 392 617 coroutil-fabric-1.20.1-1.3.7.jar
+14.04.2026  00:21        24 841 934 create-fabric-0.5.1-j-build.1631+mc1.20.1.jar
+28.04.2026  21:10        32 189 889 create-fabric-6.0.8.1+build.1744-mc1.20.1.jar.disabled
+14.04.2026  00:21         3 971 046 createdeco-2.0.2-1.20.1-fabric.jar
+25.03.2026  15:22         1 212 248 CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar
+14.04.2026  00:21        13 029 649 CustomNPCs-Unofficial-Fabric-1.20.1.20240901.jar
+03.05.2026  10:59           189 001 CustomSkinLoader_Fabric-14.28.jar
+17.05.2026  14:25         1 523 465 domixs-creatures-1.3.0.jar
+20.05.2026  18:12         4 284 786 EuphoriaPatcher-1.9.0-r5.8-fabric.jar
+14.04.2026  00:21         3 824 794 extended-wold-height-1024-3.2.jar
+17.05.2026  14:29           370 876 extrasounds-1.5.4+1.20.1-fabric.jar
+28.04.2026  21:10         2 110 694 fabric-api-0.92.8+1.20.1.jar
+14.04.2026  01:02         7 796 348 fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar
+03.05.2026  10:08           112 497 fabrictailor-2.1.2.jar.disabled
+24.05.2026  17:29            48 277 fantasy-0.4.11+1.20-rc1.jar
+14.04.2026  00:21           386 386 fantasy_armor-fabric-1.0-1.20.1.jar
+14.04.2026  00:21           554 429 fantasy_weapons-fabric-0.3.1-1.20.1.jar
+14.04.2026  01:26         8 056 758 FarmersDelight-1.20.1-2.4.1+refabricated.jar
+07.06.2026  14:42         1 616 237 firstperson-fabric-2.7.1-mc1.20.1.jar.disabled
+14.04.2026  00:21           781 194 ftb-library-fabric-2001.2.10-1.20.1.jar
+14.04.2026  00:21         2 303 664 fzzy_config-0.7.3+1.20.1.jar
+14.04.2026  00:21         1 069 282 geckolib-fabric-1.20.1-4.8.2.jar
+25.03.2026  15:26           322 107 GlitchCore-fabric-1.20.1-0.0.1.1.jar
+02.05.2026  11:40           974 221 IBEEditor-1.20-2.2.8-fabric.jar
+14.04.2026  00:21           105 382 indium-1.0.36+mc1.20.1.jar
+14.04.2026  00:21         2 726 899 iris-1.7.6+mc1.20.1.jar
+14.04.2026  00:21           583 474 IronChests-2.0.2.jar
+05.05.2026  14:55           233 107 itemzoomer-fabric-2.0.1-1.20.1.jar
+14.04.2026  00:21           272 182 keepinvcontrol-1.0.1-1.20.jar
+14.04.2026  00:21         1 604 251 kubejs-fabric-2001.6.5-build.16.jar
+25.03.2026  15:17         1 114 373 lambdynamiclights-4.4.0+1.20.1.jar
+31.03.2026  19:23           487 655 lithostitched-fabric-1.20.1-1.4.11.jar
+14.04.2026  00:22           196 741 lootjs-fabric-1.20.1-2.13.0.jar
+14.04.2026  00:22            82 087 mana-attributes-1.6.1.jar
+14.04.2026  00:22           505 747 mobtimizations-fabric-1.20.1-1.0.0.jar
+14.04.2026  00:22           721 366 modmenu-7.2.2.jar
+14.04.2026  00:22         1 308 843 moonlight-1.20-2.16.8-fabric.jar
+05.11.2025  07:23            77 943 MouseTweaks-fabric-mc1.20-2.26.jar
+07.06.2026  16:37         1 943 280 notenoughanimations-fabric-1.12.3-mc1.20.1.jar
+14.04.2026  00:22           498 038 numismatic-overhaul-0.2.17+1.20.jar
+14.04.2026  00:22           478 076 observable-4.4.1.jar
+06.05.2026  18:41        18 653 246 Oh-The-Biomes-Weve-Gone-Fabric-1.7.5.jar
+06.05.2026  18:49           165 847 Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.6.0.jar
+14.04.2026  00:22           905 421 owo-lib-0.11.2+1.20.jar
+25.03.2026  18:27           583 699 Paraglider-fabric-20.1.4.jar
+07.06.2026  12:51         1 087 610 pathfinder_navigation-1.0.0-forge-1.20.1.jar
+14.04.2026  00:22           181 008 player-animation-lib-fabric-1.0.2-rc1+1.20.jar
+25.03.2026  15:18         5 664 952 PresenceFootsteps-1.10.1+1.20.1.jar
+14.04.2026  00:22           981 009 probejs-6.0.0-fabric.jar
+12.06.2026  13:56         5 355 388 rcuz-3.6.01.jar
+01.05.2026  09:59        20 561 342 rcuz_core_moj-1.1.0.jar.disabled
+02.05.2026  22:50        20 571 501 rcuz_core_moj-2.9.0.jar.disabled
+07.06.2026  11:38        20 593 960 rcuz_core_moj-3.0.31.jar
+07.06.2026  14:47           255 177 realcamera-1.20.1-fabric-0.7.4-beta.jar
+14.04.2026  00:22            46 128 resource-bar-api-1.6.2.jar
+25.03.2026  15:29           431 646 resourcefullib-fabric-1.20.1-2.1.29.jar
+14.04.2026  00:22         1 743 587 rhino-fabric-2001.2.3-build.10.jar
+14.04.2026  00:22           488 378 sdmshoprework-fabric-1.20.1-6.11-pre.jar
+14.04.2026  00:22            28 378 sdm_economy-fabric-1.20.1-1.7.2.jar
+14.04.2026  00:22           256 192 sdm_ui_lib-fabric-1.20.1-1.8.3.jar
+03.05.2026  11:31         1 973 785 skinlayers3d-fabric-1.11.1-mc1.20.1.jar.disabled
+14.04.2026  00:22           370 701 sodium-extra-0.5.9+mc1.20.1.jar
+14.04.2026  00:22           971 552 sodium-fabric-0.5.13+mc1.20.1.jar
+14.04.2026  00:22           202 462 sound-physics-remastered-fabric-1.20.1-1.4.10.jar
+14.04.2026  00:22           814 188 spuds-shops-1.20.1-1.8.1.jar
+12.06.2026  14:58                 0 st.txt
+31.05.2026  15:10            29 084 stacc-1.7.0.jar
+20.04.2026  18:37           127 368 starlight-1.1.2+fabric.dbc156f.jar
+14.04.2026  01:26           618 415 storagedelight-25.12.09-1.20-fabric.jar
+14.04.2026  00:22        13 469 746 supplementaries-1.20-3.1.37-fabric.jar
+31.05.2026  10:16        58 056 016 TACZ-Refabricated-1.20.1-0.7.0-forge1.1.8-hotfix.jar
+14.04.2026  01:27           322 358 TerraBlender-fabric-1.20.1-3.0.1.10.jar
+14.04.2026  00:22           238 532 trinkets-3.7.2.jar
+01.05.2026  15:16           100 729 trmt-0.4-1.20+1.20.1.jar
+14.04.2026  00:22         5 825 402 worldedit-mod-7.2.15-1.20.1-fabric-forge.jar
+14.04.2026  00:22           577 426 WorldEditCUI-1.20-01.jar
+31.03.2026  19:20         3 382 958 [1.20.1-Fabric] Hybrid Aquatic 1.5.4.jar
+              92 файлов    447 227 876 байт
+               2 папок  14 711 566 336 байт свободно

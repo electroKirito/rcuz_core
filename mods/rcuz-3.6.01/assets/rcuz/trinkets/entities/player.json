@@ -1,0 +1,10 @@
+{
+  "slots": {
+    "chest": {
+      "charm": {
+        "icon": "minecraft:item/lightning_rod",
+        "order": 0
+      }
+    }
+  }
+}

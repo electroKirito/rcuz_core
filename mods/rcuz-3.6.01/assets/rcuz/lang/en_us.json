@@ -1,0 +1,91 @@
+{
+  "itemgroup.rcuz.items": "RCUZ Items",
+
+  "tooltip.rcuz.hold_shift": "[Shift для полной информации]",
+
+  "item.rcuz.magic_plate_health": "§5Магическая плита §7[Красное гнездо]",
+  "item.rcuz.magic_plate_life_stone": "§5Магическая плита §7[Каменная жизнь]",
+  "item.rcuz.almond_water": "§bМиндальная вода§r",
+  "item.rcuz.magic_plate_matrix": "§5Магическая плита §7[Матрица]",
+  "item.rcuz.rubbish": "Мусор",
+  "item.rcuz.rubbish_cube": "Куб из мусора",
+  "item.rcuz.armor_plate_titan": "Титановая броне пластина",
+  "item.rcuz.armor_plate_dendro": "Дендро броне пластина",
+  "item.rcuz.armor_plate_magma": "Магмовая броне пластина",
+  "item.rcuz.sharp_thorn": "Острый шип",
+  "item.rcuz.dabavlyaem_v_rcuz": "ДОБАВЛЯЕМ В RCUZ",
+  "item.rcuz.fragmentation": "Раздробленность",
+  "item.rcuz.double_crystal": "Двойной кристал",
+  "item.rcuz.biomass": "Биомасса",
+  "item.rcuz.potion_cell": "пустая AB колба",
+  "item.rcuz.light_piece_of_metal": "Светлый кусок метала",
+  "item.rcuz.bacteria": "§4Бактерии",
+  "item.rcuz.world_box": "Мировая коробка",
+  "item.rcuz.lb_frirp": "Лут-бокс",
+  "item.rcuz.button_unzhat": "Кнопка",
+  "item.rcuz.skeleton_fish": "Рыба-скелет",
+  "item.rcuz.deep_sea_jellyfish": "Медуза",
+  "item.rcuz.stoneshek": "Камушек",
+  "item.rcuz.molecular_matrix": "Малекулярная матрица",
+
+  "item.rcuz.green_fishing_rod": "Зеленая удочка",
+  "item.rcuz.red_fishing_rod": "Красная удочка",
+  "item.rcuz.blue_fishing_rod": "Синяя удочка",
+  "item.rcuz.updated_green_fishing_rod": "§4Лесная удочка",
+  "item.rcuz.updated_red_fishing_rod": "§4Адская удочка",
+  "item.rcuz.updated_blue_fishing_rod": "§4Удочка удильщика",
+
+  "item.rcuz.pendant_with_a_cube": "Брелок с кубиком",
+  "item.rcuz.sharpik": "Шарпик",
+  "item.rcuz.vc": "§eVC§r",
+  "item.rcuz.digital_cube": "§4Цифровой куб§r",
+  "item.rcuz.totemchik": "Тотемчик",
+  "item.rcuz.drying_sprout": "Высыхающий росток",
+  "item.rcuz.acidic_piece": "Кислотный кусочек",
+  "item.rcuz_items.tps_master": "§9TPS MASTER§r",
+
+  "item.rcuz.ab_base": "Молекулярная §dAB§r база",
+  "item.rcuz.ab_base_speed": "Молекулярная §dAB§r база §8[Скорость]",
+  "item.rcuz.ab_base_max_health": "Молекулярная §dAB§r база §8[Максимальное здоровье]",
+  "item.rcuz.ab_base_toughness": "Молекулярная §dAB§r база §8[Твердость]",
+  "item.rcuz.ab_base_mana_regeneration": "Молекулярная §dAB§r база §8[Регенерация маны]",
+  "item.rcuz.ab_base_vampiric": "Молекулярная §dAB§r база §8[Вампиризм]",
+  "item.rcuz.ab_base_damage": "Молекулярная §dAB§r база §8[Урон]",
+
+  "item.rcuz.ab_mana_regeneration_potion": "§dAB Зелье регенерации маны",
+  "item.rcuz.ab_damage_potion": "§dAB Зелье урона",
+  "item.rcuz.ab_toughness_potion": "§dAB Зелье твердости",
+  "item.rcuz.ab_vampiric_potion": "§dAB Зелье §4вампиризма",
+  "item.rcuz.ab_speed_potion": "§dAB Зелье скорости",
+  "item.rcuz.ab_max_health_potion": "§dAB Зелье максимального здоровья",
+
+
+
+  "trinkets.slot.head.ab_potion": "AB-AA",
+  "trinkets.slot.head.magic_plate": "Магическая плита",
+
+  "itemgroup.ab_potions": "[RCUZ] AB potions",
+  "itemgroup.rcuz_material": "[RCUZ] Materials",
+
+  "DESC0": "------------------------------------------------------ НАЗВАНИЯ СЛОТОВ ------------------------------------------------------",
+  "rcuz.equipment_slot.tooltip.name.mainhand": "Ведущая рука",
+  "rcuz.equipment_slot.tooltip.name.mainhand_ico": "✍",
+  "rcuz.equipment_slot.tooltip.name.offhand": "Вторая рука",
+  "rcuz.equipment_slot.tooltip.name.offhand_ico": "✌",
+  "rcuz.equipment_slot.tooltip.name.feet": "Ступни",
+  "rcuz.equipment_slot.tooltip.name.feet_ico": "🦶",
+  "rcuz.equipment_slot.tooltip.name.legs": "Ноги",
+  "rcuz.equipment_slot.tooltip.name.legs_ico": "🦵",
+  "rcuz.equipment_slot.tooltip.name.chest": "Нагрудный слот",
+  "rcuz.equipment_slot.tooltip.name.chest_ico": "🛡",
+  "rcuz.equipment_slot.tooltip.name.head": "Голова",
+  "rcuz.equipment_slot.tooltip.name.head_ico": "😶",
+
+  "DESC": "------------------------------------------------------ ОПИСАНИЯ ПРЕДМЕТОВ ------------------------------------------------------",
+
+  "item.fantasy_weapons.weapon_thief_dagger.desc.default": "Боевой заточенный ножик, много чего от него ждать не надо",
+  "item.fantasy_weapons.weapon_thief_dagger.desc.full": "Боевой заточенный ножик, много чего от него ждать не надо XD",
+
+  "item.fantasy_weapons.weapon_sharp_curved_sword.desc.default": "Одноручный меч, очень приятно лежит в руке",
+  "item.fantasy_weapons.weapon_sharp_curved_sword.desc.full": "Одноручный меч, очень приятно лежит в руке"
+}

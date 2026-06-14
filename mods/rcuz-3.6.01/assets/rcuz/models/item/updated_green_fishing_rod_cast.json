@@ -1,0 +1,6 @@
+{
+  "parent": "item/fishing_rod",
+  "textures": {
+    "layer0": "rcuz:item/updated_green_fishing_rod_cast"
+  }
+}

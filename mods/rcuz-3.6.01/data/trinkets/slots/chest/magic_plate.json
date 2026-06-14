@@ -1,0 +1,6 @@
+{
+  "amount": 2,
+  "icon": "rcuz:gui/slot_magic_plate",
+  "name": { "text": "Magic Plate Slot" },
+  "items": "rcuz:chest/magic_plate"
+}

@@ -1,0 +1,227 @@
+Структура папок тома Windows 10
+Серийный номер тома: 000000D9 5287:FE05
+C:\USERS\ELECTROBEAR\IDEAPROJECTS\MODS\RCUZ\SRC\MAIN\RESOURCES
+|   fabric.mod.json
+|   kubejs.plugins.txt
+|   rcuz.mixins.json
+|   structure.txt
+|   
++---assets
+|   \---rcuz
+|       |   icon.png
+|       |   sounds.json
+|       |   
+|       +---atlases
+|       |       blocks.json
+|       |       
+|       +---blockstates
+|       |       a_pit.json
+|       |       b_pit.json
+|       |       sky_box.json
+|       |       
+|       +---lang
+|       |       en_us.json
+|       |       
+|       +---models
+|       |   +---block
+|       |   |       a_pit.json
+|       |   |       b_pit.json
+|       |   |       door_seal.json
+|       |   |       sky_box.json
+|       |   |       
+|       |   \---item
+|       |           ab_base.json
+|       |           ab_base_damage.json
+|       |           ab_base_mana_regeneration.json
+|       |           ab_base_max_health.json
+|       |           ab_base_speed.json
+|       |           ab_base_toughness.json
+|       |           ab_base_vampiric.json
+|       |           ab_damage_potion.json
+|       |           ab_mana_regeneration_potion.json
+|       |           ab_max_health_potion.json
+|       |           ab_speed_potion.json
+|       |           ab_toughness_potion.json
+|       |           ab_vampiric_potion.json
+|       |           acidic_piece.json
+|       |           armor_plate_dendro.json
+|       |           armor_plate_magma.json
+|       |           armor_plate_titan.json
+|       |           a_pit.json
+|       |           bacteria.json
+|       |           biomass.json
+|       |           bio_bar.json
+|       |           blue_fishing_rod.json
+|       |           blue_fishing_rod_cast.json
+|       |           button_unzhat.json
+|       |           b_pit.json
+|       |           dabavlyaem_v_rcuz.json
+|       |           deep_sea_jellyfish.json
+|       |           digital_cube.json
+|       |           double_crystal.json
+|       |           drying_sprout.json
+|       |           fragmentation.json
+|       |           green_fishing_rod.json
+|       |           green_fishing_rod_cast.json
+|       |           holy_mantle.json
+|       |           lb_frirp.json
+|       |           light_piece_of_metal.json
+|       |           magic_plate_health.json
+|       |           magic_plate_life_stone.json
+|       |           magic_plate_matrix.json
+|       |           molecular_matrix.json
+|       |           pendant_with_a_cube.json
+|       |           potion_cell.json
+|       |           red_fishing_rod.json
+|       |           red_fishing_rod_cast.json
+|       |           rubbish.json
+|       |           rubbish_cube.json
+|       |           sharpik.json
+|       |           sharp_thorn.json
+|       |           skeleton_fish.json
+|       |           sky_box.json
+|       |           stoneshek.json
+|       |           totemchik.json
+|       |           tps_master.json
+|       |           updated_blue_fishing_rod.json
+|       |           updated_blue_fishing_rod_cast.json
+|       |           updated_green_fishing_rod.json
+|       |           updated_green_fishing_rod_cast.json
+|       |           updated_red_fishing_rod.json
+|       |           updated_red_fishing_rod_cast.json
+|       |           vc.json
+|       |           world_box.json
+|       |           
+|       +---sounds
+|       |       discord_notification.ogg
+|       |       hihihiha.ogg
+|       |       holy_mantle_destroyed.ogg
+|       |       lego_crushing.ogg
+|       |       loot_box_open.ogg
+|       |       photo_make.ogg
+|       |       poor_pozhalete.ogg
+|       |       poshol_zhar.ogg
+|       |       scary_ugroza.ogg
+|       |       war_initer_uh.ogg
+|       |       wow.ogg
+|       |       
+|       +---textures
+|       |   +---block
+|       |   |       a_pit.png
+|       |   |       blue_locker_overlay.png
+|       |   |       b_pit.png
+|       |   |       door_seal.png
+|       |   |       
+|       |   +---entity
+|       |   |       stone_zombie.png
+|       |   |       
+|       |   +---gui
+|       |   |       potion_cell.png
+|       |   |       slot_magic_plate.png
+|       |   |       
+|       |   +---item
+|       |   |       ab_base.png
+|       |   |       ab_base_damage.png
+|       |   |       ab_base_mana_regeneration.png
+|       |   |       ab_base_max_health.png
+|       |   |       ab_base_speed.png
+|       |   |       ab_base_toughness.png
+|       |   |       ab_base_vampiric.json
+|       |   |       ab_base_vampiric.png
+|       |   |       ab_damage_potion.png
+|       |   |       ab_mana_regeneration_potion.png
+|       |   |       ab_max_health_potion.png
+|       |   |       ab_speed_potion.png
+|       |   |       ab_toughness_potion.png
+|       |   |       ab_vampiric_potion.png
+|       |   |       acidic_piece.png
+|       |   |       armor_plate_dendro.png
+|       |   |       armor_plate_magma.png
+|       |   |       armor_plate_titan.png
+|       |   |       bacteria.png
+|       |   |       bacteria.png.mcmeta
+|       |   |       biomass.png
+|       |   |       bio_bar.png
+|       |   |       blue_fishing_rod.png
+|       |   |       blue_fishing_rod_cast.png
+|       |   |       button_unzhat.png
+|       |   |       dabavlyaem_v_rcuz.png
+|       |   |       deep_sea_jellyfish.png
+|       |   |       digital_cube.png
+|       |   |       double_crystal.png
+|       |   |       drying_sprout.png
+|       |   |       fragmentation.png
+|       |   |       green_fishing_rod.png
+|       |   |       green_fishing_rod_cast.png
+|       |   |       holy_mantle.png
+|       |   |       lb_frirp.png
+|       |   |       light_piece_of_metal.png
+|       |   |       magic_plate_health.png
+|       |   |       magic_plate_life_stone.png
+|       |   |       magic_plate_matrix.png
+|       |   |       molecular_matrix.png
+|       |   |       pendant_with_a_cube.png
+|       |   |       potion_cell.png
+|       |   |       red_fishing_rod.png
+|       |   |       red_fishing_rod_cast.png
+|       |   |       rubbish.png
+|       |   |       rubbish_cube.png
+|       |   |       sharpik.png
+|       |   |       sharp_thorn.png
+|       |   |       skeleton_fish.png
+|       |   |       stoneshek.png
+|       |   |       totemchik.png
+|       |   |       tps_master.png
+|       |   |       updated_blue_fishing_rod.png
+|       |   |       updated_blue_fishing_rod.png.mcmeta
+|       |   |       updated_blue_fishing_rod_cast.png
+|       |   |       updated_green_fishing_rod.png
+|       |   |       updated_green_fishing_rod.png.mcmeta
+|       |   |       updated_green_fishing_rod_cast.png
+|       |   |       updated_green_fishing_rod_cast.png.mcmeta
+|       |   |       updated_red_fishing_rod.png
+|       |   |       updated_red_fishing_rod_cast.png
+|       |   |       vc.png
+|       |   |       world_box.png
+|       |   |       
+|       |   \---skyboxes
+|       |           sb1.png
+|       |           
+|       \---trinkets
+|           \---entities
+|                   player.json
+|                   
+\---data
+    +---rcuz
+    |   +---dimension
+    |   |       game_world.json
+    |   |       
+    |   +---fantasy_weapons
+    |   |   \---weapon_attributes
+    |   |           weapon_chess_board_knight_polearm.json
+    |   |           weapon_crimson_reaper.json
+    |   |           weapon_dragons_doom.json
+    |   |           
+    |   \---structures
+    |           lobby.nbt
+    |           
+    \---trinkets
+        +---entities
+        |       trinkets_bear.json
+        |       
+        +---slots
+        |   +---chest
+        |   |       magic_plate.json
+        |   |       
+        |   \---head
+        |           ab_potion.json
+        |           
+        \---tags
+            \---items
+                +---chest
+                |       magic_plate.json
+                |       necklace.json
+                |       
+                \---head
+                        ab_potion.json
+                        

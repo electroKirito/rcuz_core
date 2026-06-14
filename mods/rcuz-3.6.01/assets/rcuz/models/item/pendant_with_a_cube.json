@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rcuz:item/pendant_with_a_cube"
+  }
+}

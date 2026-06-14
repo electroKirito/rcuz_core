@@ -5,36 +5,34 @@
   "renderModel": true,
   "adjustStep": 0.01,
   "classic": {
-    "adjustMode": "ROTATION",
-    "disableWhenSneaking": true,
+    "adjustMode": "CAMERA",
+    "disableWhenSneaking": false,
     "disableWhenSwimming": false,
     "swimOutTick": 13,
-    "scale": 8.0,
+    "scale": 4.0,
     "cameraX": -0.5,
     "cameraY": 0.04,
     "cameraZ": -0.15,
     "centerX": 0.0,
     "centerY": 0.0,
     "centerZ": 0.0,
-    "pitch": 0.0,
-    "yaw": 18.0,
+    "pitch": 15.0,
+    "yaw": 4.0,
     "roll": 0.0
   },
   "binding": {
     "screenModifierKey": "key.keyboard.left.alt",
     "legacyBindingMode": false,
-    "adjustOffset": false,
+    "adjustOffset": true,
     "hideFailureMessage": false,
     "renderStuckObjects": true,
     "disableWhenSneaking": false,
     "disableWhenSwimming": false,
     "swimOutTick": 13,
     "bindResultRetentionFrames": 2,
-    "displacementSmoothFactor": 0.4,
-    "rotationSmoothFactor": 0.4,
-    "disableMainFeatureItems": [
-      "fantasy_weapons:*"
-    ],
+    "displacementSmoothFactor": 0.8,
+    "rotationSmoothFactor": 0.8,
+    "disableMainFeatureItems": [],
     "disableRenderItems": [
       "minecraft:filled_map",
       "tacz:modern_kinetic_gun",
@@ -103,7 +101,7 @@
           "upwardU": 0.1875,
           "upwardV": 0.075,
           "posU": 0.1875,
-          "posV": 0.2
+          "posV": 0.16
         },
         "bindConfig": {
           "bindX": false,

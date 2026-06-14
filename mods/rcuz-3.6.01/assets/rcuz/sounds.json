@@ -1,0 +1,79 @@
+{
+  "loot_box_open": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:loot_box_open"
+      }
+    ]
+  },
+  "lego_crushing": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:lego_crushing"
+      }
+    ]
+  },
+  "discord_notification": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:discord_notification"
+      }
+    ]
+  },
+  "war_initer_uh": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:war_initer_uh"
+      }
+    ]
+  },
+  "poshol_zhar": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:poshol_zhar"
+      }
+    ]
+  },
+  "hihihiha": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:hihihiha"
+      }
+    ]
+  },
+  "scary_ugroza": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:scary_ugroza"
+      }
+    ]
+  },
+  "poor_pozhalete": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:poor_pozhalete"
+      }
+    ]
+  },
+  "wow": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:wow"
+      }
+    ]
+  },
+  "photo_make": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:photo_make"
+      }
+    ]
+  },
+  "holy_mantle_destroyed": {
+    "sounds": [
+      {
+        "name": "trinkets_bear:holy_mantle_destroyed"
+      }
+    ]
+  }
+}

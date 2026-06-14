@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "rcuz:magic_plate_health",
+    "rcuz:magic_plate_life_stone",
+    "rcuz:magic_plate_matrix"
+  ]
+}

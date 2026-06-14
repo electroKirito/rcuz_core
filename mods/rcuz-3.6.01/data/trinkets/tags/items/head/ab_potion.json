@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rcuz:ab_damage_potion",
+    "rcuz:ab_toughness_potion",
+    "rcuz:ab_mana_regeneration_potion",
+    "rcuz:ab_speed_potion",
+    "rcuz:ab_vampiric_potion",
+    "rcuz:ab_max_health_potion"
+  ]
+}

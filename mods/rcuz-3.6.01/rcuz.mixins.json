@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "net.bear.rcuz.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AbstractBlockStateMixin",
+    "FantasyMixin",
+    "FishingBobberMixin",
+    "FishingRodMixin",
+    "LivingEntityMixin",
+    "PlayerEntityAccessor",
+    "PlayerEntityMixin",
+    "SilverfishAIMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+	}
+}
