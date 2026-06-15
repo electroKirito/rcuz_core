@@ -153,6 +153,10 @@ file = "mods/bountifulfares-1.2.0-1.20.1.jar"
 hash = "30b5fb13abdd401004dddfaa769fe997fa578dec1a53d961095461be959529b5"
 
 [[files]]
+file = "mods/chalk-2.2.4-1.20.1-fabric.jar"
+hash = "9993f2e5d645e3c834fbdfbea2fc626980ea50d1fb766f12837bc73390a12174"
+
+[[files]]
 file = "mods/cloth-config-11.1.136-fabric.jar"
 hash = "844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa"
 
@@ -1617,8 +1621,8 @@ file = "mods/rcuz-3.6.01/structure.txt"
 hash = "e4a299bce45926ec53d1faa6e269c68fc797563b41a6c74fa3a5d55e609b5a4f"
 
 [[files]]
-file = "mods/rcuz-3.6.06.jar"
-hash = "7da1add58d5aa9527e2e02a97d2ad314ceab8c843df7ee722aafa9d267eb1e7b"
+file = "mods/rcuz-3.6.08.jar"
+hash = "da58361ed9016d6b224b071311a84939c4748d6361ac17b27dede2d8835c5f86"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
