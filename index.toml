@@ -145,6 +145,10 @@ file = "mods/bettercombat-fabric-1.9.0+1.20.1.jar"
 hash = "c1b680dd03d3af3bf670cf0d024d58bd06360f5b0818eabfec6d7c8e6a11ec07"
 
 [[files]]
+file = "mods/bf_blockpack-fabric-1.20.1-1.0.6.jar"
+hash = "e72f6e77f157a6ce3b9ac936a5f150bdbb95f3336cfe4351119922abf987bbba"
+
+[[files]]
 file = "mods/blockofsky-fabric-1.20.1-0.3.0.jar.disabled"
 hash = "771036964dbc3958239dae03d1649ac2cf317a872a9ee03e0238ed468ea90810"
 
@@ -1635,6 +1639,10 @@ hash = "ad309abca5df062b4d602b781e606bc851d99abfd2a4fa2537698945e4ecd53c"
 [[files]]
 file = "mods/rcuz_core_moj-3.0.31.jar"
 hash = "49b068e40c2d10e72d13523c1ad98a2fd20919cf963c5158ace5aeaacbe790be"
+
+[[files]]
+file = "mods/rcuz_core_moj-3.1.30.jar"
+hash = "acfc266568decf896dd6fdd311a7ca89d55b2afb98ed1f5e49768a38c13bbef4"
 
 [[files]]
 file = "mods/realcamera-1.20.1-fabric-0.7.4-beta.jar"

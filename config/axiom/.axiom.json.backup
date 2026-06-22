@@ -112,7 +112,7 @@
   },
   "capabilities": {
     "bulldozer": false,
-    "replaceMode": false,
+    "replaceMode": true,
     "typeReplace": false,
     "forcePlace": false,
     "noUpdates": false,
