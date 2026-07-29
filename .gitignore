@@ -14,6 +14,10 @@
 
 !config/
 !config/realcamera.json
+!config/manaattributes/
+!config/manaattributes/**
+!config/sound_physics_remastered
+!config/sound_physics_remastered/**
 
 !kubejs/
 !kubejs/**

@@ -1625,8 +1625,8 @@ file = "mods/rcuz-3.6.01/structure.txt"
 hash = "e4a299bce45926ec53d1faa6e269c68fc797563b41a6c74fa3a5d55e609b5a4f"
 
 [[files]]
-file = "mods/rcuz-3.6.08.jar"
-hash = "da58361ed9016d6b224b071311a84939c4748d6361ac17b27dede2d8835c5f86"
+file = "mods/rcuz-3.6.14.jar"
+hash = "f73f25a9163c3ec6830a10f72c72b99a624432347ebdf2f7467be608a2409b2d"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
@@ -1635,10 +1635,6 @@ hash = "7c143d779051ab2ec9f79622407ff5a65a15681b1be5056c8c2658ece26877cb"
 [[files]]
 file = "mods/rcuz_core_moj-2.9.0.jar.disabled"
 hash = "ad309abca5df062b4d602b781e606bc851d99abfd2a4fa2537698945e4ecd53c"
-
-[[files]]
-file = "mods/rcuz_core_moj-3.0.31.jar"
-hash = "49b068e40c2d10e72d13523c1ad98a2fd20919cf963c5158ace5aeaacbe790be"
 
 [[files]]
 file = "mods/rcuz_core_moj-3.1.30.jar"
@@ -1719,6 +1715,10 @@ hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
 [[files]]
 file = "mods/trmt-0.4-1.20+1.20.1.jar"
 hash = "d94ca14a4ece53c91313542e0c57500d3a9a8b2635d8006dc43487c8aab4f92e"
+
+[[files]]
+file = "mods/voicechat-fabric-1.20.1-2.6.21.jar"
+hash = "f2a596dcb7e437e90561701834ddee1e40e2fda2d9a7f0224b90c203872a8161"
 
 [[files]]
 file = "mods/worldedit-mod-7.2.15-1.20.1-fabric-forge.jar"

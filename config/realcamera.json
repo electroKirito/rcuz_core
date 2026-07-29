@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "isClassic": false,
+  "isClassic": true,
   "dynamicCrosshair": true,
   "renderModel": true,
   "adjustStep": 0.01,
@@ -23,7 +23,7 @@
   "binding": {
     "screenModifierKey": "key.keyboard.left.alt",
     "legacyBindingMode": false,
-    "adjustOffset": true,
+    "adjustOffset": false,
     "hideFailureMessage": false,
     "renderStuckObjects": true,
     "disableWhenSneaking": false,
