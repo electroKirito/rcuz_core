@@ -95,7 +95,7 @@
     }
   },
   "visuals": {
-    "minBrightness": 100,
+    "minBrightness": 15,
     "liquidOpacity": 100,
     "showBiomes": false,
     "showAnnotations": true,
@@ -117,9 +117,9 @@
     "forcePlace": false,
     "noUpdates": false,
     "tinker": false,
-    "infiniteReach": false,
-    "infiniteReachLimit": 21,
-    "fastPlace": false,
+    "infiniteReach": true,
+    "infiniteReachLimit": 10,
+    "fastPlace": true,
     "angelPlacement": false,
     "noClip": true,
     "phantom": false
@@ -197,7 +197,16 @@
     "dockedInventoryWithPalette": true,
     "rootEditorPalette": {
       "blocks": [],
-      "subcategories": {}
+      "subcategories": {
+        "sd": {
+          "blocks": [
+            "minecraft:grass",
+            "minecraft:air",
+            "minecraft:air"
+          ],
+          "subcategories": {}
+        }
+      }
     },
     "customDowngradeSuggestions": {},
     "invertCameraRotate": true,

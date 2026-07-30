@@ -1,6 +1,6 @@
 {
-  "enabled": true,
-  "isClassic": true,
+  "enabled": false,
+  "isClassic": false,
   "dynamicCrosshair": true,
   "renderModel": true,
   "adjustStep": 0.01,
@@ -51,7 +51,7 @@
           "upwardU": 0.1875,
           "upwardV": 0.075,
           "posU": 0.1875,
-          "posV": 0.2
+          "posV": 0.18
         },
         "bindConfig": {
           "bindX": false,

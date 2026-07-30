@@ -1625,8 +1625,8 @@ file = "mods/rcuz-3.6.01/structure.txt"
 hash = "e4a299bce45926ec53d1faa6e269c68fc797563b41a6c74fa3a5d55e609b5a4f"
 
 [[files]]
-file = "mods/rcuz-3.6.14.jar"
-hash = "f73f25a9163c3ec6830a10f72c72b99a624432347ebdf2f7467be608a2409b2d"
+file = "mods/rcuz-3.6.16.jar"
+hash = "ffb3ef9bbcfc65d7f4f4e094219ac98acffef17e815a0159c9e8991281c32292"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
@@ -1711,10 +1711,6 @@ hash = "9f70aef5f2554673e17092dd79b8c59bfd5c58b3a6e9a6c8f0c61ee6fee73563"
 [[files]]
 file = "mods/trinkets-3.7.2.jar"
 hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
-
-[[files]]
-file = "mods/trmt-0.4-1.20+1.20.1.jar"
-hash = "d94ca14a4ece53c91313542e0c57500d3a9a8b2635d8006dc43487c8aab4f92e"
 
 [[files]]
 file = "mods/voicechat-fabric-1.20.1-2.6.21.jar"
