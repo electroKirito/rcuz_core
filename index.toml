@@ -169,8 +169,8 @@ file = "mods/colorfulhearts-fabric-1.20.1-4.3.16.jar"
 hash = "415181c9d9799845e1a103aa5382d7933a62671f0c2a36abea5aa22d8b338951"
 
 [[files]]
-file = "mods/copycats-2.2.2+mc.1.20.1-fabric.jar"
-hash = "3e697c6f3d83bfba4ed288c597c0f26b251d9a5fa4fa7cc0d4faad6f6e039407"
+file = "mods/copycats-3.0.7+mc.1.20.1-fabric.jar"
+hash = "9e7ef992fe54a41e864d4b78d0a41091f09e88dcc3b2772b611377b0938c6e42"
 
 [[files]]
 file = "mods/coroutil-fabric-1.20.1-1.3.7.jar"
@@ -181,12 +181,12 @@ file = "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar"
 hash = "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a"
 
 [[files]]
-file = "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar.disabled"
+file = "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar.duplicate"
 hash = "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a"
 
 [[files]]
-file = "mods/createdeco-2.0.2-1.20.1-fabric.jar"
-hash = "59fb9ce554bfdb43fdd24b6bd08ca5b930ce16a5fadc78df254d18b6ce3901f3"
+file = "mods/createdeco-2.1.1-1.20.1-fabric.jar"
+hash = "7a72ee9c8da0b478256263c1e75ad4541b902cffb3c314bdb91850ead6fcfd4a"
 
 [[files]]
 file = "mods/domixs-creatures-1.3.0.jar"
