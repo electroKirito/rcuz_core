@@ -309,6 +309,10 @@ file = "mods/pathfinder_navigation-1.0.0-forge-1.20.1.jar"
 hash = "89856a5e13244dddcafd85aa3896f11254685ce7ade213f24ca62438231b2de1"
 
 [[files]]
+file = "mods/photon-fabric-1.20.1-1.1.17.jar"
+hash = "1ee6c45f4cb059be06eb5d31461c57edaf8afafead98f1d2f55f9107b9fff310"
+
+[[files]]
 file = "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
 hash = "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018"
 

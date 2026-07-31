@@ -216,6 +216,6 @@
     "useVanillaMovementForEditor": true,
     "tallGrassIsActuallyNotTall": false,
     "disableChunkRenderOverrider": false,
-    "hadEditorUIOpen": false
+    "hadEditorUIOpen": true
   }
 }
