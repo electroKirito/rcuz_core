@@ -154,6 +154,12 @@ mode = "fancy"
 			[light_sources.settings.entities.farmersdelight]
 				rotten_tomato = true
 
+			[light_sources.settings.entities.rcuz]
+				stone_zombie = true
+
+			[light_sources.settings.entities.bf_blockpack]
+				wandering_trader = true
+
 			[light_sources.settings.entities.customnpcs]
 				npcgolem = true
 				npccrystal = true
@@ -213,6 +219,10 @@ mode = "fancy"
 			[light_sources.settings.entities.bountifulfares]
 				flour = true
 
+			[light_sources.settings.entities.tacz]
+				target_minecart = true
+				bullet = true
+
 			[light_sources.settings.entities.supplementaries]
 				dispenser_minecart = true
 				slingshot_projectile = true
@@ -232,6 +242,7 @@ mode = "fancy"
 				carriage_contraption = true
 				seat = true
 				stationary_contraption = true
+				package = true
 				contraption = true
 				gantry_contraption = true
 				super_glue = true
