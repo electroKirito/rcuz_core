@@ -2,16 +2,16 @@
 /*
 
 # Разрешить packwiz заходить в нужные папки
-!/mods/
-!/config/
-!/kubejs/
-!/resourcepacks/
+!/mods
+!/config
+!/kubejs
+!/resourcepacks
 
 # Игнорировать всё внутри config, КРОМЕ нужных файлов/папок
 config/*
 !config/realcamera.json
-!config/manaattributes/
-!config/sound_physics_remastered/
+!config/manaattributes
+!config/sound_physics_remastered
 
 # Исключения внутри kubejs
 kubejs/probe/
