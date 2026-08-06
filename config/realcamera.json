@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "isClassic": false,
+  "isClassic": true,
   "dynamicCrosshair": true,
   "renderModel": true,
   "adjustStep": 0.01,
   "classic": {
-    "adjustMode": "CAMERA",
+    "adjustMode": "ROTATION",
     "disableWhenSneaking": false,
     "disableWhenSwimming": false,
     "swimOutTick": 13,
@@ -27,184 +27,33 @@
     "hideFailureMessage": false,
     "renderStuckObjects": true,
     "disableWhenSneaking": false,
-    "disableWhenSwimming": false,
+    "disableWhenSwimming": true,
     "swimOutTick": 13,
     "bindResultRetentionFrames": 2,
-    "displacementSmoothFactor": 0.4,
-    "rotationSmoothFactor": 0.4,
+    "displacementSmoothFactor": 0.94,
+    "rotationSmoothFactor": 0.94,
     "disableMainFeatureItems": [
       "tacz:modern_kinetic_gun"
     ],
     "disableRenderItems": [
       "minecraft:filled_map",
       "tacz:modern_kinetic_gun",
-      "",
       ""
     ],
     "fixedTargetList": [],
     "targetList": [
       {
-        "name": "minecraft_head",
-        "textureId": "minecraft:textures/entity/player/",
-        "priority": 5,
-        "disablingDepth": 0.1,
-        "targetConfig": {
-          "forwardU": 0.1875,
-          "forwardV": 0.2,
-          "upwardU": 0.1875,
-          "upwardV": 0.075,
-          "posU": 0.1875,
-          "posV": 0.2
-        },
-        "bindConfig": {
-          "bindX": false,
-          "bindY": true,
-          "bindZ": false,
-          "bindRotation": false
-        },
-        "offsets": {
-          "scale": 1.0,
-          "x": -0.1,
-          "y": 0.0,
-          "z": 0.0,
-          "pitch": 0.0,
-          "yaw": 0.0,
-          "roll": 0.0
-        },
-        "disableConfigs": [
-          {
-            "name": "player_head",
-            "textureId": "minecraft:textures/entity/player/",
-            "disableAll": false,
-            "rectangles": [
-              {
-                "uMin": 0.0,
-                "vMin": 0.0,
-                "uMax": 1.0,
-                "vMax": 0.25
-              }
-            ]
-          },
-          {
-            "name": "dragon_head",
-            "textureId": "minecraft:textures/entity/enderdragon/dragon.png",
-            "disableAll": true,
-            "rectangles": []
-          }
-        ]
-      },
-      {
-        "name": "skin_head",
-        "textureId": "minecraft:skins/",
-        "priority": 5,
-        "disablingDepth": 0.1,
-        "targetConfig": {
-          "forwardU": 0.1875,
-          "forwardV": 0.2,
-          "upwardU": 0.1875,
-          "upwardV": 0.075,
-          "posU": 0.1875,
-          "posV": 0.2
-        },
-        "bindConfig": {
-          "bindX": false,
-          "bindY": true,
-          "bindZ": false,
-          "bindRotation": false
-        },
-        "offsets": {
-          "scale": 1.0,
-          "x": -0.1,
-          "y": 0.0,
-          "z": 0.0,
-          "pitch": 0.0,
-          "yaw": 0.0,
-          "roll": 0.0
-        },
-        "disableConfigs": [
-          {
-            "name": "player_head",
-            "textureId": "minecraft:skins/",
-            "disableAll": false,
-            "rectangles": [
-              {
-                "uMin": 0.0,
-                "vMin": 0.0,
-                "uMax": 1.0,
-                "vMax": 0.25
-              }
-            ]
-          },
-          {
-            "name": "dragon_head",
-            "textureId": "minecraft:textures/entity/enderdragon/dragon.png",
-            "disableAll": true,
-            "rectangles": []
-          }
-        ]
-      },
-      {
-        "name": "minecraft_head_2",
-        "textureId": "minecraft:textures/entity/player/",
-        "priority": 1,
-        "disablingDepth": 0.1,
-        "targetConfig": {
-          "forwardU": 0.1875,
-          "forwardV": 0.2,
-          "upwardU": 0.1875,
-          "upwardV": 0.075,
-          "posU": 0.1875,
-          "posV": 0.2
-        },
-        "bindConfig": {
-          "bindX": true,
-          "bindY": true,
-          "bindZ": true,
-          "bindRotation": true
-        },
-        "offsets": {
-          "scale": 1.0,
-          "x": -0.1,
-          "y": 0.0,
-          "z": 0.0,
-          "pitch": 0.0,
-          "yaw": 0.0,
-          "roll": 0.0
-        },
-        "disableConfigs": [
-          {
-            "name": "player_head",
-            "textureId": "minecraft:textures/entity/player/",
-            "disableAll": false,
-            "rectangles": [
-              {
-                "uMin": 0.0,
-                "vMin": 0.0,
-                "uMax": 1.0,
-                "vMax": 0.25
-              }
-            ]
-          },
-          {
-            "name": "dragon_head",
-            "textureId": "minecraft:textures/entity/enderdragon/dragon.png",
-            "disableAll": true,
-            "rectangles": []
-          }
-        ]
-      },
-      {
         "name": "skin_head_2",
-        "textureId": "minecraft:skins/",
+        "textureId": "minecraft:skins/27e22065014d9f2f715cd05c9fc63613551e402a",
         "priority": 1,
         "disablingDepth": 0.1,
         "targetConfig": {
           "forwardU": 0.1875,
-          "forwardV": 0.2,
-          "upwardU": 0.1875,
-          "upwardV": 0.075,
-          "posU": 0.1875,
-          "posV": 0.2
+          "forwardV": 0.1875,
+          "upwardU": 0.6875,
+          "upwardV": 0.0625,
+          "posU": 0.6875,
+          "posV": 0.1875
         },
         "bindConfig": {
           "bindX": true,
@@ -215,9 +64,9 @@
         "offsets": {
           "scale": 1.0,
           "x": -0.1,
-          "y": 0.0,
+          "y": 0.0862069,
           "z": 0.0,
-          "pitch": 0.0,
+          "pitch": -3.1034484,
           "yaw": 0.0,
           "roll": 0.0
         },

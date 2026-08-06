@@ -1,28 +1,20 @@
-# Игнорировать всё по умолчанию
-*
+/*
 
-# Оставить packwiz-файлы
-!pack.toml
-!index.toml
-!.packwizignore
-!.gitignore
-!*.pw.toml
+!/mods/
+!/config/
+!/kubejs/
+!/resourcepacks/
 
-# Оставить нужные папки
-!mods/
-!mods/**
-
-!config/
+config/*
 !config/realcamera.json
 !config/manaattributes/
-!config/manaattributes/**
-!config/sound_physics_remastered
-!config/sound_physics_remastered/**
+!config/sound_physics_remastered/
 
-!kubejs/
-!kubejs/**
+kubejs/probe/
 
-!resourcepacks/
-!resourcepacks/**
-
-!.gitattributes
+!/pack.toml
+!/index.toml
+!/*.pw.toml
+!/.packwizignore
+!/.gitignore
+!/.gitattributes
