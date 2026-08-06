@@ -1653,8 +1653,8 @@ file = "mods/rcuz-3.6.01/structure.txt"
 hash = "e4a299bce45926ec53d1faa6e269c68fc797563b41a6c74fa3a5d55e609b5a4f"
 
 [[files]]
-file = "mods/rcuz-3.6.18.jar"
-hash = "e68f98e4ab24ac47157115ad0a27102a3a34a33ea334289137b5e88ac73e0184"
+file = "mods/rcuz-3.6.19.jar"
+hash = "f3030c38b7c20160181a64a7d236d034797c091a999bc369baf9494345202f14"
 
 [[files]]
 file = "mods/rcuz_core_moj-1.1.0.jar.disabled"
