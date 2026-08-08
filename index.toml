@@ -73,6 +73,10 @@ file = "mods/Corgilib-Fabric-1.20.1-4.0.3.4.jar"
 hash = "bdee50c14dd42b5b085fec7012ad7272ffd4e051161c0a6739275f2e77f54f3b"
 
 [[files]]
+file = "mods/CraftPresence-2.7.1+1.20.1-fabric.jar"
+hash = "e000aff629d1ebfd2e6d2a1ca852d0797a4707898f52832059f4e8500bf20d52"
+
+[[files]]
 file = "mods/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar"
 hash = "606ad29a74cbafd1370abe085476f56ba318d0dead83c77ae0740b87dd5c4b95"
 
@@ -131,6 +135,10 @@ hash = "3c03f60dcc54e650ced399cb8b860cb6c0574298f7553edcd61633de0b892b05"
 [[files]]
 file = "mods/TerraBlender-fabric-1.20.1-3.0.1.10.jar"
 hash = "d02d9aa2ccf091264b0fcef07644128b823b3421a02bfc40391a01aa1ccd0a24"
+
+[[files]]
+file = "mods/UniLib-1.2.1+1.20.1-fabric.jar"
+hash = "2f3536db8582a4ceef3a2594c1ce3fc7162c71df0a17799f997c7d69bcae0815"
 
 [[files]]
 file = "mods/WorldEditCUI-1.20-01.jar"
