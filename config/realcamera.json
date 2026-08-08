@@ -27,7 +27,7 @@
     "hideFailureMessage": false,
     "renderStuckObjects": true,
     "disableWhenSneaking": false,
-    "disableWhenSwimming": true,
+    "disableWhenSwimming": false,
     "swimOutTick": 13,
     "bindResultRetentionFrames": 2,
     "displacementSmoothFactor": 0.94,
