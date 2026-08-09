@@ -321,6 +321,10 @@ file = "mods/moonlight-1.20-2.16.8-fabric.jar"
 hash = "aef9f7a9c7aa10cde0a8624af47776c045035736d0e65dfd9f3eac8b634912c4"
 
 [[files]]
+file = "mods/multiplayer-button-2.0.1.jar"
+hash = "427043adb5367e2d384808cc47616c45ce3748982b5372f43779f03efa40ddcc"
+
+[[files]]
 file = "mods/notenoughanimations-fabric-1.12.3-mc1.20.1.jar"
 hash = "259185b7f50f74d71783fc79413140fce37e31f3469ea76d4f0a6a798be47ece"
 
